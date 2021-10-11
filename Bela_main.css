@@ -3,3 +3,14 @@ body{
     background-color: black;
     color: red;
 }
+
+#card-body
+{
+    background-color: black;
+}
+
+#szélső_kép
+{
+    width: 500px;
+    height: 750px;
+}
