@@ -4,13 +4,22 @@ body{
     color: red;
 }
 
-#card-body
+#card_bg
 {
     background-color: black;
 }
 
 #szélső_kép
 {
-    width: 500px;
-    height: 750px;
+    width: 300px;
+    height: 450px;
+}
+
+#padding
+{
+    padding: 45px;
+}
+
+#cim{
+    text-shadow: 2px 2px 2px #04CCFE;
 }
