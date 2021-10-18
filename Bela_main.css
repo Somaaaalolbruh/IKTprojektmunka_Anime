@@ -12,7 +12,7 @@ body{
 #szélső_kép
 {
     width: 300px;
-    height: 450px;
+    height: auto;
 }
 
 #padding
