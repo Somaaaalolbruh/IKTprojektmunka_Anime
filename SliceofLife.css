@@ -4,6 +4,16 @@ body{
     color: red;
 }
 
-#barbara{
+.barbara{
   color: red;
+}
+
+.padding
+{
+    padding: 45px;
+}
+
+.card_bg
+{
+    background-color: black;
 }
