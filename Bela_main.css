@@ -4,23 +4,23 @@ body{
     color: red;
 }
 
-#card_bg
+.card_bg
 {
     background-color: black;
 }
 
-#szélső_kép
+.szélső_kép
 {
     width: 300px;
     height: auto;
 }
 
-#padding
+.padding
 {
     padding: 45px;
 }
 
-#cim{
+.cim{
     text-shadow: 2px 2px 2px #04CCFE;
 }
 
