@@ -29,4 +29,5 @@ body{
 
 .table{
     color: red;
+    float: left;
 }
