@@ -18,11 +18,8 @@ h5{
     color: red;
 }
 
-img{
-    padding-bottom: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 5px;  
+.card_bg{
+    background-color: black;
 }
 
 .barbara{
