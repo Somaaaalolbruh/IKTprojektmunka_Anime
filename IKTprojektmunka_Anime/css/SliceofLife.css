@@ -1,0 +1,29 @@
+h1
+{
+    margin: 10px;
+}
+
+body{
+    background-color: black;
+    color: red;
+}
+
+.barbara{
+  color: red;
+}
+
+.padding
+{
+    padding: 45px;
+}
+
+.card_bg
+{
+    background-color: black;
+}
+
+.fokep
+{
+    width: 25%;
+    height: 10%;
+}
